@@ -15,7 +15,7 @@ Paymentwall is a global mobile payment gateway that accepts payments from more t
       With local payments, local payment screen will be shown with payment methods corresponding to user’s current location. Here users can then select a payment option they prefer.
       
 ## REQUIREMENTS
-Android 4.0.3 (API level 14) and above.
+Android 4.0.1 (API level 14) and above.
 
 ## CREDENTIALS
 Paymentwall SDK integration requires a project key. Obtain these Paymentwall API credentials in the application settings of your Merchant Account at paymentwall.com
