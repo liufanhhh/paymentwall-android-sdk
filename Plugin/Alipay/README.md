@@ -2,6 +2,7 @@
 
 ## Step 1
 Copy alipay sdk jar file to ‘libs’ folder in the app directory.
+
 ![](../../static/add_alipay_lib.png) 
 
 ## Step 2
