@@ -1,11 +1,12 @@
 # Alipay integration instruction
 
 ## Step 1
-Copy alipay sdk jar file to ‘libs’ folder in the app directory.
-![](static/add_alipay_lib.png) 
+Copy alipay sdk jar file to â€˜libsâ€™ folder in the app directory.
+
+![](../../static/add_alipay_lib.png) 
 
 ## Step 2
-Add this line to your app module’s build.gradle file:
+Add this line to your app moduleâ€™s build.gradle file:
 ```java
 compile project(':alipayadapter-release')
 ```
