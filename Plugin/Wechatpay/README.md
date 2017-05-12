@@ -3,7 +3,7 @@
 ## Step 1
 Copy library jar files to ‘libs’ folder in the app directory.
 
-![](static/../../add_wechatpay_lib.png) 
+![](../../static/add_wechatpay_lib.png) 
 
 ## Step 2
 Add this line to your app module’s build.gradle file:
